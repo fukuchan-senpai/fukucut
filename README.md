@@ -1,5 +1,6 @@
 # fukucut
-Tool to split files into floppy disk-sized files.
+ファイルをフロッピーディスクサイズに分割するツール。  
+Windowsで動作します。
 
 ## download
 
