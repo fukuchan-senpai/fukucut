@@ -3,5 +3,4 @@
 Windowsで動作します。
 
 ## download
-
-https://github.com/fukuchan-senpai/fukucut/releases/tag/v1.5
+https://github.com/fukuchan-senpai/fukucut/releases/tag/v2.0
